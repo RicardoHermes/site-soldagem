@@ -12,7 +12,7 @@ body {
 }
 #map {
     height: 250px; /* Altura desejada do mapa */
-    width: 250px; /* Largura total */
+    width: 350px; /* Largura total */
     border-radius: 10px;
   }
 
